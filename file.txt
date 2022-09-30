@@ -5,4 +5,7 @@ Colors of the rainbow:
 1. red
 2. yellow
 3. green
-
+4. orange
+5. purple
+6. pink
+7. blue
