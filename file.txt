@@ -9,3 +9,7 @@ Colors of the rainbow:
 5. purple
 6. pink
 7. blue
+NEW COLORS
+8. aqua
+9. black
+10. white
